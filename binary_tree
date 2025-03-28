@@ -1,0 +1,35 @@
+binary tree is a non-linear and hierarchical data structure
+types of node 
+Root node 
+leaf node
+Parent Node
+Child node 
+Sibling node 
+Ancestor Node 
+Internal Node -: except root and leaf node
+Descendant Node
+
+Level 
+Size -: No. of nodes 
+Height -: Most commonly height is considered on the basis of edges(Total level - 1)
+or if it is given you can also taken as (level == height)
+No. of edges -: Size - 1
+
+
+Types of trees:- 
+1. Generic Trees -: Root node is one but no. of child node of one parent is not define
+
+2. Binary Trees -: A parent have atmost 2 children
+
+3. Binary Search Tree -: Tree in which every parent have atmost 2 children but condition
+is that every left child is smaller than parent and every right child is greater than parent
+
+4. AVL Trees -: These are binary search tree but these are balanced trees 
+
+Applications of Tree Data Structure -: 
+1. Hierarchical Tree Structure 
+2. Searching Efficiency 
+3. Sorting
+4. Dynamic Data 
+5. Efficient Insertion and Deletion
+6. Easy to Implement
